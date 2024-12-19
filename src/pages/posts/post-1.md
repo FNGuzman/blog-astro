@@ -8,5 +8,6 @@ image:
     url: 'https://docs.astro.build/assets/full-logo-dark.png'
     alt: 'El logotipo completo de Astro.'
 tags: ["astro", "bloguear", "aprender en público"]
+
 ---
 Después de una exitosa primera semana aprendiendo Astro, decidí probar un poco más. Escribí e importé un pequeño componente de memoria.
